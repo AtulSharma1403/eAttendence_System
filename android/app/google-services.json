@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "880922060543",
+    "project_id": "eattendence-60e39",
+    "storage_bucket": "eattendence-60e39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880922060543:android:435bb7bdcac27ece390eca",
+        "android_client_info": {
+          "package_name": "com.eattendence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880922060543-hfopbtd6sft2q9c3j10p1mki6n9298qk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyT1XhG3YtvjvY7cKD1lkyfUUN8xOzdKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880922060543-hfopbtd6sft2q9c3j10p1mki6n9298qk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
