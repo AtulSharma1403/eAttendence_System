@@ -214,7 +214,7 @@ const hidedatepicker = () =>{
        />
     
       
-<View>
+
  
 
 {isLoading ? <Text style={styles.Attendences}>Press Get Attendence</Text> :
@@ -226,7 +226,7 @@ const hidedatepicker = () =>{
         ListEmptyComponent={EmptyListMessage}
       />
      )}
-  </View> 
+
 
       
       
