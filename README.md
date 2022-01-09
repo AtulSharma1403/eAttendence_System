@@ -10,7 +10,7 @@ In This Application We marked Attendence By Using QR code Scanner And Show Atten
 - [React Native Select Two](https://www.npmjs.com/package/react-native-select-two)
 - [React Native Simple Bottam Sheet](https://www.npmjs.com/package/react-native-simple-bottom-sheet)
 # Splash Screen
-!<img src="https://user-images.githubusercontent.com/78870767/148670937-e131f230-c88e-4184-85fe-47e690e314a6.png" width="320" height="650">
+!<img align="center" src="https://user-images.githubusercontent.com/78870767/148670937-e131f230-c88e-4184-85fe-47e690e314a6.png" width="320" height="650">
 
 
 
