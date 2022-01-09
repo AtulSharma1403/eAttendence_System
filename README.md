@@ -12,7 +12,6 @@ In This Application We marked Attendence By Using QR code Scanner And Show Atten
 # Splash Screen
 <img align="center" src="https://user-images.githubusercontent.com/78870767/148670937-e131f230-c88e-4184-85fe-47e690e314a6.png" width="320" height="650">
 # Main Screens
-[Screenshot_20220109-110925_eAttendence 1 _google-pixel4-clearlywhite-portrait](https://user-images.githubusercontent.com/78870767/148671283-9d06b147-ac7e-4890-8994-7d15f1199c69.png)
 <img align="center" src="https://user-images.githubusercontent.com/78870767/148671283-9d06b147-ac7e-4890-8994-7d15f1199c69.png" width="320" height="650">
 
 
