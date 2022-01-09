@@ -18,4 +18,4 @@ In This Application We marked Attendence By Using QR code Scanner And Show Atten
 
 # Student Section
 
-<img align="center" src="https://user-images.githubusercontent.com/78870767/148691317-8ba97cea-1fdf-4614-8a23-59f6b537f7c9.png">
+<img align="center" src="https://user-images.githubusercontent.com/78870767/148691317-8ba97cea-1fdf-4614-8a23-59f6b537f7c9.png"  width="1500" height="650">
